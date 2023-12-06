@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.deepak</groupId>
-	<artifactId>SpringRestTemplateDemo</artifactId>
+	<artifactId>SpringRestTemplateDemoccc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringRestTemplateDemo</name>
 	<description>Demo on spring rest template</description>
